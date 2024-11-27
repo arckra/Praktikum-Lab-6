@@ -1,8 +1,8 @@
 # Praktikum-Lab-6
 
-**Soal**
+**SOAL**
 
-Tugas PraktikumBuat program sederhana dengan mengaplikasikan penggunaanfungsi yang akan menampilkan daftar nilai mahasiswa, denganketentuan:
+Tugas PraktikumBuat program sederhana dengan mengaplikasikan penggunaanfungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 - Fungsi tambah() untuk menambah data
 - Fungsi tapilkan() untuk menampilkan data
 - Fungsi hapus(nama) untuk menghapus data berdasarkannama
@@ -10,7 +10,7 @@ Tugas PraktikumBuat program sederhana dengan mengaplikasikan penggunaanfungsi ya
 - Buat flowchart dan penjelasan programnya pada README.md. 
 - Commit dan push repository ke github.
 
-**Flowchart**
+**FLOWCHART**
 ![Flowchart praktikum7-warna](https://github.com/user-attachments/assets/d44329c2-ddb9-48c2-a66d-9bee50bd605a)
 
 
