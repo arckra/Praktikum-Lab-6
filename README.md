@@ -15,8 +15,8 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 **FLOWCHART**
 ![Flowchart praktikum7-warna](https://github.com/user-attachments/assets/d44329c2-ddb9-48c2-a66d-9bee50bd605a)
 
-
 **JAWABAN**
+
 **1. Struktur Data:**
 - Data mahasiswa disimpan dalam bentuk list bernama mahasiswa, dengan setiap entri berupa dictionary berisi nama dan nilai.
 
