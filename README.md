@@ -2,13 +2,13 @@
 
 **SOAL**
 
-Tugas Praktikum
+**Tugas Praktikum**
 
-Buat program sederhana dengan mengaplikasikan penggunaanfungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
-- Fungsi tambah() untuk menambah data
-- Fungsi tapilkan() untuk menampilkan data
-- Fungsi hapus(nama) untuk menghapus data berdasarkannama
-- Fungsi ubah(nama) untuk mengubah data berdasarkannama
+Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
+- Fungsi **tambah()** untuk menambah data
+- Fungsi **tapilkan()** untuk menampilkan data
+- Fungsi **hapus(nama)** untuk menghapus data berdasarkannama
+- Fungsi **ubah(nama)** untuk mengubah data berdasarkannama
 - Buat flowchart dan penjelasan programnya pada README.md. 
 - Commit dan push repository ke github.
 
