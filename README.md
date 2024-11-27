@@ -2,7 +2,9 @@
 
 **SOAL**
 
-Tugas PraktikumBuat program sederhana dengan mengaplikasikan penggunaanfungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
+Tugas Praktikum
+
+Buat program sederhana dengan mengaplikasikan penggunaanfungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 - Fungsi tambah() untuk menambah data
 - Fungsi tapilkan() untuk menampilkan data
 - Fungsi hapus(nama) untuk menghapus data berdasarkannama
